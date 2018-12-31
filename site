@@ -19,7 +19,7 @@ from unicodedata import normalize
 
 # Configuration
 DEBUG = False
-BASE_URL = 'https://nicolas.perriault.net'
+BASE_URL = 'https://zarif-tzamiri.github.io'
 ASSETS_DEBUG = DEBUG
 FLATPAGES_AUTO_RELOAD = True
 FLATPAGES_EXTENSION = '.md'
