@@ -1,5 +1,5 @@
 Fabric==1.4.0
-Flask==0.9
+Flask==1.0.2
 Flask-Assets==0.6.2
 Flask-FlatPages==0.2
 Flask-Markdown==0.3
@@ -12,7 +12,7 @@ Werkzeug==0.8.3
 argh==0.15.1
 cssmin==0.1.4
 distribute==0.6.19
-feedparser==5.1
+feedparser==5.1.2
 jsmin==2.0.2
 pycrypto==2.5
 ssh==1.7.13
